@@ -1,0 +1,73 @@
+{
+  "houses": [
+    {
+      "img": "https://media.licdn.com/dms/image/D4D12AQGPy6n4XA3eiQ/article-cover_image-shrink_720_1280/0/1687039862345?e=2147483647&v=beta&t=reyO4Xm8PwuFc3KlLdSGCxgassaMBixCPJhtcWASBaM",
+      "prototype": "",
+      "price": "$170,8978",
+      "description": "house in the small town",
+      "sell": "selling",
+      "location": "New York",
+      "sqft": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "3 Bath",
+      "id": "1"
+    },
+    {
+      "img": "https://corporatestays.com/wp-content/uploads/2022/02/The-Hazel-Amenities-Lounge-2.jpg",
+      "prototype": "",
+      "price": "undefined",
+      "description": "undefined",
+      "sell": "undefined",
+      "location": "undefined",
+      "sqft": "undefined",
+      "bed": "undefined",
+      "bath": "undefined",
+      "id": "3"
+    },
+    {
+      "img": "https://corporatestays.com/wp-content/uploads/2022/02/The-Hazel-Amenities-4-e1633774291295.jpg",
+      "prototype": "",
+      "price": "$1,0000",
+      "description": "community gated houses",
+      "sell": "renting",
+      "location": "LA",
+      "sqft": "5000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath",
+      "id": "4"
+    },
+    {
+      "img": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed.jpg",
+      "prototype": "",
+      "price": "$20,54345",
+      "description": "modern house For Sell",
+      "sell": "selling",
+      "location": "New York",
+      "sqft": "1000 Sqft",
+      "bed": "1 Bed",
+      "bath": "2 Bath",
+      "id": "5"
+    },
+    {
+      "img": "https://t4.ftcdn.net/jpg/01/69/69/21/360_F_169692156_L1aGrmJaHsZxF1sWQGuRKn3mR60bBqhN.jpg",
+      "prototype": "",
+      "price": "$80,345",
+      "description": "century  house fully furnished",
+      "sell": "selling",
+      "location": "Washington",
+      "sqft": "15,000 Sqft",
+      "bed": "6 Bed",
+      "bath": "4 Bath",
+      "id": "6"
+    }
+  ],
+  "contact": [
+    {
+      "id": 35127,
+      "email": "leamdeeech@gmail.com",
+      "name": "mohamed",
+      "subject": "kl",
+      "message": "kl"
+    }
+  ]
+}
