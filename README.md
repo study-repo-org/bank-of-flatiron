@@ -26,7 +26,7 @@ install json-server
 ```
 
 # Live Link
-https://study-repo-org.github.io/propertyHub/
+https://study-repo-org.github.io/bank-of-flatiron/
 
 ## Technologies used
 react.js
